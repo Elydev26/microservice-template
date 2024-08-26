@@ -1,0 +1,9 @@
+[submodule "sample-backend"]
+	path = sample-backend
+	url = ttps://github.com/Elydev26/micro-service-app/sample-backend.git
+[submodule "sample-communication"]
+	path = sample-communication
+	url = ttps://github.com/Elydev26/micro-service-app/sample-backend.git
+[submodule "sample-analytics"]
+	path = sample-analytics
+	url = ttps://github.com/Elydev26/micro-service-app/sample-backend.git
